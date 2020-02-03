@@ -1,6 +1,9 @@
 # stranger-things
 Hard-coded version of the Stranger Things Arduino code
 
+[Link from ACM of McNeese email archive]
+https://github.com/ErinBryson/IoST
+
 ## Setup Notes
 
 [Notes pulled as-is from ACM of McNeese email archive]
